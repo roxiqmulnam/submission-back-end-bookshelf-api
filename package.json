@@ -1,7 +1,7 @@
 {
   "name": "submission-back-end-bookshelf-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Belajar Membuat Aplikasi Back-End untuk Pemula--roxiqmulna",
   "main": "index.js",
   "scripts": {
     "start-prod": "NODE_ENV=production node ./src/server.js",
